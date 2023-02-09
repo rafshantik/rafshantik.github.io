@@ -1,12 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rafsh2
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - changning/sqs2poscar
+  - rafsh2/SQS
+  - rafsh2/rafshan.github.io
+  - sufyanshk/RLD
+  - princego/mm5003
+  - gphanikumar/MM2090
+
+
+  # - rafsh2/Phonon
+
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
